@@ -6,7 +6,7 @@
     <Name>BaseDeDatos</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{a7d3c61c-a8e9-480a-86ff-4e1437645c98}</ProjectGuid>
+    <ProjectGuid>{c96c61b7-36ee-4a17-825b-4e94dab441d8}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
