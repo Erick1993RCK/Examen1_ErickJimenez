@@ -62,5 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Parametros.sql" />
+    <Build Include="dbo\StoredProcedure\ListarParametros.sql" />
+    <Build Include="dbo\StoredProcedure\InsertarParametros.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\StoredProcedure\EditarParametros.sql" />
+    <None Include="dbo\StoredProcedure\EliminarParametros.sql" />
+    <None Include="dbo\StoredProcedure\VerDetalleParametros.sql" />
   </ItemGroup>
 </Project>
