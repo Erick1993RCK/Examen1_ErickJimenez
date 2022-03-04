@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity
+namespace WebApp
 {
-    public class EN
+    public struct IApp
     {
-        public bool Estado { get; set; }
+
 
     }
 }
-

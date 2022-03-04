@@ -17,11 +17,11 @@ namespace WBL
         Task<DBEntity> Update(ParametrosEntity entity);
     }
 
-    public class TitulosService : IParametrosService
+    public class ParametrosService : IParametrosService
     {
         private readonly IDataAccess sql;
 
-        public TitulosService(IDataAccess _sql)
+        public ParametrosService(IDataAccess _sql)
         {
             sql = _sql;
         }
