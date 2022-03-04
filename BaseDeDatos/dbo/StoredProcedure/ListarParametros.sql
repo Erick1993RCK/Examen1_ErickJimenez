@@ -8,10 +8,8 @@ AS BEGIN
 			Id_Parametro
 		,   Codigo
 		,   Descripcion
-		,	Valor
-		,	Estado
 
-		FROM Parametros 
+		FROM Parametro
 
 		WHERE
 	     (@Id_Parametro IS NULL OR Id_Parametro=@Id_Parametro)
